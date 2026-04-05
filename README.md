@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/krish-nareshpatil">LinkedIn</a> •
   <a href="mailto:krishpatil4151@gmail.com">Email</a> •
-  <a href="[YOUR_PORTFOLIO_URL](https://portfolio-krish-patil.vercel.app/)">Portfolio</a>
+  <a href="https://portfolio-krish-patil.vercel.app/">Portfolio</a>
 </p>
 
 ---
